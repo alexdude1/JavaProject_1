@@ -3,13 +3,9 @@ package com.alextuns;
 public class Main {
 
     public static void main(String[] args) {
-	// write your code here
-        System.out.println("hello" + "world!");
+    // write your code here
+        System.out.println("push to svn ");
 
         //comment
-
-        String letter = new String("s");
-        System.out.println(letter);
-
     }
 }
