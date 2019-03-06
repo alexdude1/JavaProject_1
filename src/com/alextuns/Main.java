@@ -7,5 +7,9 @@ public class Main {
         System.out.println("hello" + "world!");
 
         //comment
+
+        String letter = new String("s");
+        System.out.println(letter);
+
     }
 }
